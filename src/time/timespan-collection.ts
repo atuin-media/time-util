@@ -1,4 +1,4 @@
-import { Temporal } from '@atuin/shared/model';
+import { Temporal } from './temporal.model';
 import fns from '../vendor/date-fns-importer';
 import _ from '../vendor/lodash-importer';
 import { TemporalSlice } from './temporal-slice';

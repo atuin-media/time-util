@@ -1,4 +1,4 @@
-import { Temporal } from '@atuin/shared/model';
+import { Temporal } from './temporal.model';
 import { TimeInterval } from 'd3-time';
 import { TimeUnitInterval } from './time-unit-interval';
 import { TimeUtils } from './time-utils';

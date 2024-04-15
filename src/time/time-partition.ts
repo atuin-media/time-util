@@ -1,4 +1,4 @@
-import { Temporal } from '@atuin/shared/model';
+import { Temporal } from './temporal.model';
 import { TimeUnitInterval } from './time-unit-interval';
 import { Timespan } from './timespan';
 import { TimespanCollection } from './timespan-collection';

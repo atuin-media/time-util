@@ -1,4 +1,4 @@
-import { Temporal } from '@atuin/shared/model';
+import { Temporal } from './temporal.model';
 import _ from '../vendor/lodash-importer';
 import { TimePartition } from './time-partition';
 import { TimeUnitInterval } from './time-unit-interval';

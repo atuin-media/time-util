@@ -1,0 +1,32 @@
+{
+  "name": "time-util",
+  "version": "1.0.0",
+  "description": "Typescript library for working with time spans and time units",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atuin-media/time-util.git"
+  },
+  "author": "atuin.media",
+  "license": "MIT",
+  "homepage": "https://github.com/atuin-media/time-util#readme",
+  "dependencies": {
+    "@types/d3-time": "^3.0.3",
+    "d3-time": "^3.1.0",
+    "date-fns": "^3.6.0",
+    "lodash.sortby": "^4.7.0",
+    "lodash.xor": "^4.5.0",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "@jest/globals": "^29.7.0",
+    "@types/jest": "^29.5.12",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2"
+  }
+}

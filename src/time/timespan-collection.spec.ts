@@ -1,5 +1,5 @@
-import { Temporal } from '@atuin/shared/model';
-import { TemporalSlice } from '@atuin/shared/util-time';
+import { Temporal } from './temporal.model';
+import { TemporalSlice } from './temporal-slice';
 import { Timespan } from './timespan';
 import { TimespanCollection } from './timespan-collection';
 
