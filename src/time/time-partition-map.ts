@@ -200,7 +200,7 @@ export class TimePartitionMap<T extends TimePartition> extends TimespanCollectio
     }
 
     /**
-     * Helper function which returns an array of dates as keys of the affected intervals. Hence
+     * Helper function which returns an array of dates as keys of the affected intervals. Hence,
      * the intervals which are touched by the temporal instance.
      *
      * @param item The temporal instance to get the keys for

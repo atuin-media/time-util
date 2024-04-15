@@ -5,7 +5,7 @@ import { TemporalSlice } from './temporal-slice';
 import { Timespan } from './timespan';
 
 /**
- * Helper class which represents a mark for the start or end of an temporal instances and
+ * Helper class which represents a mark for the start or end of a temporal instances and
  * stores a reference to the original temporal.
  */
 class TemporalBoundaryMark {
