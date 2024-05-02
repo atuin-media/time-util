@@ -9,6 +9,10 @@ A typical use case would be, for example, the division of several overlapping ti
 time spans: A working time from 09:00 to 17:00 is overlaid with two breaks and one would like to have the 
 working time minus the breaks as three independent time spans.
 
+## Documentation
+
+All relevant classes and methods are documented inline.
+
 ## Example usage
 
 TimespanCollection
